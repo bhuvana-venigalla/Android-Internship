@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">option menus implementation</string>
+    <string name="select_any_option">Select any option</string>
+    <string name="share">share</string>
+    <string name="dial">dial</string>
+    <string name="gallery">gallery</string>
+</resources>

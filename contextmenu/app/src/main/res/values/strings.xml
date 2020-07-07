@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">context menu</string>
+    <string name="context_menu">context menu</string>
+    <string name="notification">notification</string>
+    <string name="help">help</string>
+    <string name="logout">logout</string>
+    <string name="settings">settings</string>
+</resources>
